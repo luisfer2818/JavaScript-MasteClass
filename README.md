@@ -1,2 +1,2 @@
 # JavaScript-MasteClass
-Curso JavaScript Masteclass do professor @Rodrigo Branas
+Curso JavaScript Masteclass do professor @RodrigoBranas
